@@ -1,6 +1,6 @@
 ## Pizza Store API
 
-Esta es la version 1.0 que permite tener una API minima, sin un almacenamiento externo.
+Esta es la version 1.1 que permite tener una API minima, con un almacenamiento en memoria a traves de Microsoft.EntityFrameworkCore.InMemory
 
 
 ## Instalacion
